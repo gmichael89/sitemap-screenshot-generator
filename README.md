@@ -1,5 +1,7 @@
 # Screenshot Generator From Xenu-generated Sitemap
 
+### Still in progress
+
 Using a supplied sitemap XML file (from [Xenu Link Sleuth]), this simple app will generate screenshots of the supplied URLs based on provided resolutions.
 
 Don't use many links as it will grind your machine down to a halt as it opens each link in a tab in the browser.
